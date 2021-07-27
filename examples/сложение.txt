@@ -1,6 +1,6 @@
-<html>
+html>
     <head>
-        <title>РЎР»РѕР¶РµРЅРёРµ РґРІСѓС… С‡РёСЃРµР»</title>    
+        <title>Сложение двух чисел</title>    
     </head>
     <body>
         <form class="form">
