@@ -1,0 +1,12 @@
+<html><head></head>
+            
+        <body>
+            <script>
+        const a = 1;
+        const b = 2;
+        const c = a + b;
+        alert(c);
+       </script> 
+       </body>
+    
+</html>
