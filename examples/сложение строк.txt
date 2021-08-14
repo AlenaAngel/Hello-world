@@ -1,0 +1,11 @@
+html><head></head>
+            
+        <body>
+            <script>
+        let cat = "2";
+        let dog = "3";
+        alert (cat + dog);
+       </script> 
+       </body>
+    
+</html>
